@@ -1,3 +1,5 @@
+![Screenshot from 2022-12-12 12-56-40](https://user-images.githubusercontent.com/108860346/206985647-3ede38ba-89cc-486a-9078-314f3a2ea735.png)
+![Screenshot from 2022-12-12 12-56-31](https://user-images.githubusercontent.com/108860346/206985671-5c116113-9b69-432f-bf36-529c4c23b990.png)
 # grocery_app_sample
 
 A new Flutter project.
